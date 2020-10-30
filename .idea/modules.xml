@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/third-party/aosp-dexutils/aosp-dexutils.iml" filepath="$PROJECT_DIR$/.idea/modules/third-party/aosp-dexutils/aosp-dexutils.iml" group="tinker-sample-android/third-party/aosp-dexutils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="tinker-sample-android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/third-party/bsdiff-util/bsdiff-util.iml" filepath="$PROJECT_DIR$/.idea/modules/third-party/bsdiff-util/bsdiff-util.iml" group="tinker-sample-android/third-party/bsdiff-util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/third-party/third-party.iml" filepath="$PROJECT_DIR$/.idea/modules/third-party/third-party.iml" group="tinker-sample-android/third-party" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tinker-android/tinker-android.iml" filepath="$PROJECT_DIR$/.idea/modules/tinker-android/tinker-android.iml" group="tinker-sample-android/tinker-android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tinker-android/tinker-android-anno-support/tinker-android-anno-support.iml" filepath="$PROJECT_DIR$/.idea/modules/tinker-android/tinker-android-anno-support/tinker-android-anno-support.iml" group="tinker-sample-android/tinker-android/tinker-android-anno-support" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tinker-android/tinker-android-lib/tinker-android-lib.iml" filepath="$PROJECT_DIR$/.idea/modules/tinker-android/tinker-android-lib/tinker-android-lib.iml" group="tinker-sample-android/tinker-android/tinker-android-lib" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tinker-android/tinker-android-loader/tinker-android-loader.iml" filepath="$PROJECT_DIR$/.idea/modules/tinker-android/tinker-android-loader/tinker-android-loader.iml" group="tinker-sample-android/tinker-android/tinker-android-loader" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tinker-commons/tinker-commons.iml" filepath="$PROJECT_DIR$/.idea/modules/tinker-commons/tinker-commons.iml" group="tinker-sample-android/tinker-commons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tinker-sample-android.iml" filepath="$PROJECT_DIR$/.idea/modules/tinker-sample-android.iml" group="tinker-sample-android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/third-party/tinker-ziputils/tinker-ziputils.iml" filepath="$PROJECT_DIR$/.idea/modules/third-party/tinker-ziputils/tinker-ziputils.iml" group="tinker-sample-android/third-party/tinker-ziputils" />
+    </modules>
+  </component>
+</project>
